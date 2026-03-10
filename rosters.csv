@@ -1,0 +1,309 @@
+name,country,pool,position,team,on_40_man,role
+Alex Bregman,USA,B (Houston),3B,Chicago Cubs,True,batter
+Byron Buxton,USA,B (Houston),CF,Minnesota Twins,True,batter
+Roman Anthony,USA,B (Houston),OF,Boston Red Sox,True,batter
+Garrett Cleavinger,USA,B (Houston),LHP,Tampa Bay Rays,True,pitcher
+Ernie Clement,USA,B (Houston),UTL,Toronto Blue Jays,True,batter
+Pete Crow-Armstrong,USA,B (Houston),CF,Chicago Cubs,True,batter
+Paul Goldschmidt,USA,B (Houston),1B,FA (former Yankees),False,batter
+Bryce Harper,USA,B (Houston),1B,Philadelphia Phillies,True,batter
+Gunnar Henderson,USA,B (Houston),SS,Baltimore Orioles,True,batter
+Clay Holmes,USA,B (Houston),RHP,New York Mets,True,pitcher
+Griffin Jax,USA,B (Houston),RHP,Tampa Bay Rays,True,pitcher
+Aaron Judge,USA,B (Houston),RF,New York Yankees,True,batter
+Brad Keller,USA,B (Houston),RHP,Philadelphia Phillies,True,pitcher
+Clayton Kershaw,USA,B (Houston),LHP,Returning from retirement (former Dodgers),False,pitcher
+Matt Boyd,USA,B (Houston),LHP,Chicago Cubs,True,pitcher
+Nolan McLean,USA,B (Houston),RHP,New York Mets,True,pitcher
+Mason Miller,USA,B (Houston),RHP,San Diego Padres,True,pitcher
+Cal Raleigh,USA,B (Houston),C,Seattle Mariners,True,batter
+Ryan Yarbrough,USA,B (Houston),LHP,New York Yankees,True,pitcher
+Kyle Schwarber,USA,B (Houston),DH,Philadelphia Phillies,True,batter
+Paul Skenes,USA,B (Houston),RHP,Pittsburgh Pirates,True,pitcher
+Tarik Skubal,USA,B (Houston),LHP,Detroit Tigers,True,pitcher
+Will Smith,USA,B (Houston),C,Los Angeles Dodgers,True,batter
+Gabe Speier,USA,B (Houston),LHP,Seattle Mariners,True,pitcher
+Brice Turang,USA,B (Houston),2B,Milwaukee Brewers,True,batter
+Michael Wacha,USA,B (Houston),RHP,Kansas City Royals,True,pitcher
+Logan Webb,USA,B (Houston),RHP,San Francisco Giants,True,pitcher
+Garrett Whitlock,USA,B (Houston),RHP,Boston Red Sox,True,pitcher
+Bobby Witt Jr.,USA,B (Houston),SS,Kansas City Royals,True,batter
+David Bednar,USA,B (Houston),RHP,New York Yankees,True,pitcher
+Shohei Ohtani,JPN,C (Tokyo),DH,Los Angeles Dodgers,True,batter
+Yoshinobu Yamamoto,JPN,C (Tokyo),RHP,Los Angeles Dodgers,True,pitcher
+Yusei Kikuchi,JPN,C (Tokyo),LHP,Los Angeles Angels,True,pitcher
+Seiya Suzuki,JPN,C (Tokyo),RF,Chicago Cubs,True,batter
+Masataka Yoshida,JPN,C (Tokyo),LF,Boston Red Sox,True,batter
+Munetaka Murakami,JPN,C (Tokyo),1B,Chicago White Sox,True,batter
+Kazuma Okamoto,JPN,C (Tokyo),3B,Toronto Blue Jays,True,batter
+Tomoyuki Sugano,JPN,C (Tokyo),RHP,Colorado Rockies,True,pitcher
+Sandy Alcántara,DOM,D (Miami),RHP,Miami Marlins,True,pitcher
+Elvis Alvarado,DOM,D (Miami),RHP,Athletics,True,pitcher
+Huascar Brazobán,DOM,D (Miami),RHP,New York Mets,True,pitcher
+Brayan Bello,DOM,D (Miami),RHP,Boston Red Sox,True,pitcher
+Junior Caminero,DOM,D (Miami),3B,Tampa Bay Rays,True,batter
+Oneil Cruz,DOM,D (Miami),CF,Pittsburgh Pirates,True,batter
+Seranthony Domínguez,DOM,D (Miami),RHP,Chicago White Sox,True,pitcher
+Camilo Doval,DOM,D (Miami),RHP,New York Yankees,True,pitcher
+Carlos Estévez,DOM,D (Miami),RHP,Kansas City Royals,True,pitcher
+Vladimir Guerrero Jr.,DOM,D (Miami),1B,Toronto Blue Jays,True,batter
+Manny Machado,DOM,D (Miami),3B,San Diego Padres,True,batter
+Ketel Marte,DOM,D (Miami),2B,Arizona Diamondbacks,True,batter
+Jeremy Peña,DOM,D (Miami),SS,Houston Astros,True,batter
+Wandy Peralta,DOM,D (Miami),LHP,San Diego Padres,True,pitcher
+Geraldo Perdomo,DOM,D (Miami),SS,Arizona Diamondbacks,True,batter
+Agustín Ramírez,DOM,D (Miami),C,Miami Marlins,True,batter
+Julio Rodríguez,DOM,D (Miami),CF,Seattle Mariners,True,batter
+Johan Rojas,DOM,D (Miami),CF,Philadelphia Phillies,True,batter
+Amed Rosario,DOM,D (Miami),UTL,New York Yankees,True,batter
+Cristopher Sanchez,DOM,D (Miami),LHP,Philadelphia Phillies,True,pitcher
+Dennis Santana,DOM,D (Miami),RHP,Pittsburgh Pirates,True,pitcher
+Carlos Santana,DOM,D (Miami),1B,Arizona Diamondbacks,True,batter
+Luis Severino,DOM,D (Miami),RHP,Athletics,True,pitcher
+Juan Soto,DOM,D (Miami),RF,New York Mets,True,batter
+Gregory Soto,DOM,D (Miami),LHP,Pittsburgh Pirates,True,pitcher
+Fernando Tatís Jr.,DOM,D (Miami),RF,San Diego Padres,True,batter
+Abner Uribe,DOM,D (Miami),RHP,Milwaukee Brewers,True,pitcher
+Edwin Uceta,DOM,D (Miami),RHP,Tampa Bay Rays,True,pitcher
+Austin Wells,DOM,D (Miami),C,New York Yankees,True,batter
+Ronald Acuña Jr.,VEN,D (Miami),RF,Atlanta Braves,True,batter
+Christian Suárez,VEN,D (Miami),RHP,Los Angeles Dodgers (org.),False,pitcher
+Wilyer Abreu,VEN,D (Miami),RF,Boston Red Sox,True,batter
+Luis Arráez,VEN,D (Miami),1B,San Francisco Giants,True,batter
+Eduard Bazardo,VEN,D (Miami),RHP,Seattle Mariners,True,pitcher
+José Buttó,VEN,D (Miami),RHP,San Francisco Giants,True,pitcher
+Jackson Chourio,VEN,D (Miami),CF,Milwaukee Brewers,True,batter
+Willson Contreras,VEN,D (Miami),1B,Boston Red Sox,True,batter
+William Contreras,VEN,D (Miami),C,Milwaukee Brewers,True,batter
+Enmanuel De Jesus,VEN,D (Miami),LHP,Detroit Tigers,False,pitcher
+Maikel Garcia,VEN,D (Miami),3B,Kansas City Royals,True,batter
+Andrés Giménez,VEN,D (Miami),2B/SS,Toronto Blue Jays,True,batter
+Yoendrys Gómez,VEN,D (Miami),RHP,Tampa Bay Rays,True,pitcher
+Carlos Guzman,VEN,D (Miami),RHP,New York Mets,False,pitcher
+Jhonathan Díaz,VEN,D (Miami),LHP,Seattle Mariners,False,pitcher
+Keider Montero,VEN,D (Miami),RHP,Detroit Tigers,True,pitcher
+Luinder Ávila,VEN,D (Miami),RHP,Kansas City Royals,False,pitcher
+Daniel Palencia,VEN,D (Miami),RHP,Chicago Cubs,True,pitcher
+Salvador Perez,VEN,D (Miami),C,Kansas City Royals,True,batter
+Eduardo Rodríguez,VEN,D (Miami),LHP,Arizona Diamondbacks,True,pitcher
+Javier Sanoja,VEN,D (Miami),UTL,Miami Marlins,True,batter
+Antonio Senzatela,VEN,D (Miami),RHP,Colorado Rockies,True,pitcher
+Eugenio Suárez,VEN,D (Miami),3B,Cincinnati Reds,True,batter
+Ranger Suárez,VEN,D (Miami),LHP,Boston Red Sox,True,pitcher
+Gleyber Torres,VEN,D (Miami),2B,Detroit Tigers,True,batter
+Ezequiel Tovar,VEN,D (Miami),SS,Colorado Rockies,True,batter
+Angel Zerpa,VEN,D (Miami),LHP,Milwaukee Brewers,True,pitcher
+Nolan Arenado,PUR,A (San Juan),3B,Arizona Diamondbacks,True,batter
+Edwin Arroyo,PUR,A (San Juan),SS,Cincinnati Reds,True,batter
+Willi Castro,PUR,A (San Juan),LF,Colorado Rockies,True,batter
+Carlos Cortes,PUR,A (San Juan),LF,Athletics,True,batter
+Fernando Cruz,PUR,A (San Juan),RHP,New York Yankees,True,pitcher
+Edwin Diaz,PUR,A (San Juan),RHP,Los Angeles Dodgers,True,pitcher
+José Espada,PUR,A (San Juan),RHP,Baltimore Orioles,True,pitcher
+Rico Garcia,PUR,A (San Juan),RHP,Baltimore Orioles,True,pitcher
+Darrell Hernáiz,PUR,A (San Juan),3B,Athletics,True,batter
+Seth Lugo,PUR,A (San Juan),RHP,Kansas City Royals,True,pitcher
+Matthew Lugo,PUR,A (San Juan),CF,Los Angeles Angels,True,batter
+Jovani Morán,PUR,A (San Juan),LHP,Boston Red Sox,True,pitcher
+Luis Quinones,PUR,A (San Juan),RHP,Minnesota Twins,False,pitcher
+Heliot Ramos,PUR,A (San Juan),RF,San Francisco Giants,True,batter
+Yacksel Ríos,PUR,A (San Juan),RHP,Chicago Cubs,False,pitcher
+Eduardo Rivera,PUR,A (San Juan),LHP,Boston Red Sox,False,pitcher
+Elmer Rodríguez,PUR,A (San Juan),RHP,New York Yankees,True,pitcher
+Bryan Torres,PUR,A (San Juan),OF,St. Louis Cardinals,True,batter
+Ricardo Velez,PUR,A (San Juan),RHP,Texas Rangers,False,pitcher
+Luis Vázquez,PUR,A (San Juan),SS,Baltimore Orioles,False,batter
+Jonathan Aranda,MEX,B (Houston),2B,Tampa Bay Rays,True,batter
+Randy Arozarena,MEX,B (Houston),LF,Seattle Mariners,True,batter
+Javier Assad,MEX,B (Houston),RHP,Chicago Cubs,True,pitcher
+Brennan Bernardino,MEX,B (Houston),LHP,Colorado Rockies,True,pitcher
+Taj Bradley,MEX,B (Houston),RHP,Minnesota Twins,True,pitcher
+Alex Carrillo,MEX,B (Houston),RHP,New York Mets,True,pitcher
+Daniel Duarte,MEX,B (Houston),RHP,New York Mets,False,pitcher
+Jarren Duran,MEX,B (Houston),CF,Boston Red Sox,True,batter
+Robert Garcia,MEX,B (Houston),LHP,Texas Rangers,True,pitcher
+Luis Gastelum,MEX,B (Houston),RHP,St. Louis Cardinals,False,pitcher
+Nick Gonzales,MEX,B (Houston),2B,Pittsburgh Pirates,True,batter
+Alejandro Kirk,MEX,B (Houston),C,Toronto Blue Jays,True,batter
+Joey Meneses,MEX,B (Houston),1B,Athletics,False,batter
+Andrés Muñoz,MEX,B (Houston),RHP,Seattle Mariners,True,pitcher
+Samy Natera Jr.,MEX,B (Houston),LHP,Los Angeles Angels,False,pitcher
+Joey Ortiz,MEX,B (Houston),3B,Milwaukee Brewers,True,batter
+Alejandro Osuna,MEX,B (Houston),RF,Texas Rangers,True,batter
+Jared Serna,MEX,B (Houston),2B,Miami Marlins,True,batter
+Alek Thomas,MEX,B (Houston),CF,Arizona Diamondbacks,True,batter
+Victor Vodnik,MEX,B (Houston),RHP,Colorado Rockies,True,pitcher
+Taijuan Walker,MEX,B (Houston),RHP,Philadelphia Phillies,True,pitcher
+Dane Dunning,KOR,C (Tokyo),RHP,Seattle Mariners,False,pitcher
+Woo Suk Go,KOR,C (Tokyo),RHP,Detroit Tigers,False,pitcher
+Jahmai Jones,KOR,C (Tokyo),LF,Detroit Tigers,True,batter
+Hyeseong Kim,KOR,C (Tokyo),2B,Los Angeles Dodgers,True,batter
+Jung-Hoo Lee,KOR,C (Tokyo),CF,San Francisco Giants,True,batter
+Riley O'Brien,KOR,C (Tokyo),RHP,St. Louis Cardinals,True,pitcher
+Shay Whitcomb,KOR,C (Tokyo),2B,Houston Astros,True,batter
+Po-Yu Chen,TPE,C (Tokyo),RHP,Pittsburgh Pirates,False,pitcher
+Tsung-Che Cheng,TPE,C (Tokyo),SS,Washington Nationals,False,batter
+Stuart Fairchild,TPE,C (Tokyo),CF,Cleveland Guardians,False,batter
+Hao-Yu Lee,TPE,C (Tokyo),IF,Detroit Tigers,True,batter
+Wei-En Lin,TPE,C (Tokyo),LHP,Athletics,False,pitcher
+Yu-Min Lin,TPE,C (Tokyo),LHP,Arizona Diamondbacks,False,pitcher
+Jonathon Long,TPE,C (Tokyo),1B,Chicago Cubs,False,batter
+Tzu-Chen Sha,TPE,C (Tokyo),RHP,Athletics,False,pitcher
+Chen Zhong-Ao Zhuang,TPE,C (Tokyo),RHP,Athletics,True,pitcher
+Ozzie Albies,NED,D (Miami),2B,Atlanta Braves,True,batter
+Xander Bogaerts,NED,D (Miami),SS,San Diego Padres,True,batter
+Jamdrick Cornelia,NED,D (Miami),LHP,New York Mets,False,pitcher
+Dayson Croes,NED,D (Miami),OF,San Francisco Giants,False,batter
+Jaydenn Estanista,NED,D (Miami),RHP,Philadelphia Phillies,False,pitcher
+Kenley Jansen,NED,D (Miami),RHP,Detroit Tigers,True,pitcher
+Druw Jones,NED,D (Miami),OF,Arizona Diamondbacks,False,batter
+Antwone Kelly,NED,D (Miami),RHP,Pittsburgh Pirates,True,pitcher
+Jaitoine Kelly,NED,D (Miami),RHP,Arizona Diamondbacks,False,pitcher
+Ryjeteri Merite,NED,D (Miami),LHP,Cincinnati Reds,False,pitcher
+Shawndrick Oduber,NED,D (Miami),RHP,Los Angeles Dodgers,False,pitcher
+Jurickson Profar,NED,D (Miami),LF,Atlanta Braves,True,batter
+Ceddanne Rafaela,NED,D (Miami),UTL,Boston Red Sox,True,batter
+Chadwick Tromp,NED,D (Miami),C,Atlanta Braves,False,batter
+Dylan Wilson,NED,D (Miami),RHP,Seattle Mariners,False,pitcher
+Yiddi Cappe,CUB,A (San Juan),2B,Miami Marlins,False,batter
+Emmanuel Chapman,CUB,A (San Juan),RHP,Pittsburgh Pirates,False,pitcher
+Naykel Cruz,CUB,A (San Juan),LHP,Baltimore Orioles,False,pitcher
+Omar Hernandez,CUB,A (San Juan),C,Kansas City Royals,False,batter
+Daviel Hurtado,CUB,A (San Juan),LHP,New York Mets,False,pitcher
+Yoán Moncada,CUB,A (San Juan),3B,Los Angeles Angels,True,batter
+Yariel Rodriguez,CUB,A (San Juan),RHP,Toronto Blue Jays,False,pitcher
+Alexander Vargas,CUB,A (San Juan),SS,Cincinnati Reds,False,batter
+Micah Ashman,CAN,A (San Juan),LHP,Baltimore Orioles,False,pitcher
+Tyler Black,CAN,A (San Juan),UTL,Milwaukee Brewers,True,batter
+Owen Caissie,CAN,A (San Juan),OF,Miami Marlins,True,batter
+Eric Cerantola,CAN,A (San Juan),RHP,Kansas City Royals,True,pitcher
+Denzel Clarke,CAN,A (San Juan),OF,Athletics,True,batter
+Indigo Diaz,CAN,A (San Juan),RHP,Arizona Diamondbacks,False,pitcher
+Liam Hicks,CAN,A (San Juan),C,Miami Marlins,True,batter
+Antoine Jean,CAN,A (San Juan),LHP,Colorado Rockies,False,pitcher
+Edouard Julien,CAN,A (San Juan),2B,Colorado Rockies,True,batter
+Carter Loewen,CAN,A (San Juan),RHP,San Diego Padres,False,pitcher
+Otto López,CAN,A (San Juan),SS,Miami Marlins,True,batter
+Adam Macko,CAN,A (San Juan),LHP,Toronto Blue Jays,True,pitcher
+Josh Naylor,CAN,A (San Juan),1B,Seattle Mariners,True,batter
+Bo Naylor,CAN,A (San Juan),C,Cleveland Guardians,True,batter
+Tyler O'Neill,CAN,A (San Juan),OF,Baltimore Orioles,True,batter
+Cal Quantrill,CAN,A (San Juan),RHP,Texas Rangers,False,pitcher
+Michael Soroka,CAN,A (San Juan),RHP,Arizona Diamondbacks,True,pitcher
+Jameson Taillon,CAN,A (San Juan),RHP,Chicago Cubs,True,pitcher
+Abraham Toro,CAN,A (San Juan),3B,Kansas City Royals,False,batter
+Matt Wilkinson,CAN,A (San Juan),LHP,Cleveland Guardians,False,pitcher
+Jared Young,CAN,A (San Juan),UTL,New York Mets,True,batter
+Rob Zastryzny,CAN,A (San Juan),LHP,Milwaukee Brewers,True,pitcher
+Sam Aldegheri,ITA,B (Houston),LHP,Los Angeles Angels,True,pitcher
+Dan Altavilla,ITA,B (Houston),RHP,Minnesota Twins,False,pitcher
+Sam Antonacci,ITA,B (Houston),IF,Chicago White Sox,False,batter
+Jac Caglianone,ITA,B (Houston),OF,Kansas City Royals,True,batter
+Dominic Canzone,ITA,B (Houston),OF,Seattle Mariners,True,batter
+Dylan DeLucia,ITA,B (Houston),RHP,Cleveland Guardians,False,pitcher
+Zach Dezenzo,ITA,B (Houston),IF,Houston Astros,True,batter
+Alessandro Ercolani,ITA,B (Houston),RHP,Pittsburgh Pirates,False,pitcher
+Matt Festa,ITA,B (Houston),RHP,Cleveland Guardians,True,pitcher
+Andrew Fischer,ITA,B (Houston),3B,Milwaukee Brewers,False,batter
+Gordon Graceffo,ITA,B (Houston),RHP,St. Louis Cardinals,True,pitcher
+Alek Jacob,ITA,B (Houston),RHP,San Diego Padres,True,pitcher
+Joe La Sorsa,ITA,B (Houston),LHP,Pittsburgh Pirates,False,pitcher
+Michael Lorenzen,ITA,B (Houston),RHP,Colorado Rockies,True,pitcher
+Ron Marinaccio,ITA,B (Houston),RHP,San Diego Padres,True,pitcher
+Jakob Marsee,ITA,B (Houston),OF,Miami Marlins,True,batter
+Miles Mastrobuoni,ITA,B (Houston),UTL,Seattle Mariners,True,batter
+Nick Morabito,ITA,B (Houston),OF,New York Mets,True,batter
+Kyle Nicolas,ITA,B (Houston),RHP,Pittsburgh Pirates,True,pitcher
+Aaron Nola,ITA,B (Houston),RHP,Philadelphia Phillies,True,pitcher
+Dante Nori,ITA,B (Houston),OF,Philadelphia Phillies,False,batter
+Vinnie Pasquantino,ITA,B (Houston),1B,Kansas City Royals,True,batter
+Thomas Saggese,ITA,B (Houston),2B,St. Louis Cardinals,True,batter
+Kyle Teel,ITA,B (Houston),C,Chicago White Sox,True,batter
+Greg Weissert,ITA,B (Houston),RHP,Boston Red Sox,True,pitcher
+Harrison Bader,ISR,D (Miami),CF,San Francisco Giants,True,batter
+Charlie Beilenson,ISR,D (Miami),RHP,Seattle Mariners,False,pitcher
+Josh Blum,ISR,D (Miami),RHP,New York Mets,False,pitcher
+Matt Bowman,ISR,D (Miami),RHP,Minnesota Twins,False,pitcher
+Cole Carrigg,ISR,D (Miami),SS,Colorado Rockies,False,batter
+Harrison Cohen,ISR,D (Miami),RHP,New York Yankees,False,pitcher
+Jordan Geber,ISR,D (Miami),RHP,New York Mets,False,pitcher
+Jake Gelof,ISR,D (Miami),3B,Los Angeles Dodgers,False,batter
+Spencer Horwitz,ISR,D (Miami),1B,Pittsburgh Pirates,True,batter
+Troy Johnston,ISR,D (Miami),LF,Colorado Rockies,True,batter
+Dean Kremer,ISR,D (Miami),RHP,Baltimore Orioles,True,pitcher
+Max Lazar,ISR,D (Miami),RHP,Philadelphia Phillies,True,pitcher
+Carlos Lequerica,ISR,D (Miami),RHP,Detroit Tigers,False,pitcher
+Zach Levenson,ISR,D (Miami),RF,St. Louis Cardinals,False,batter
+Josh Mallitz,ISR,D (Miami),RHP,San Diego Padres,False,pitcher
+Noah Mendlinger,ISR,D (Miami),3B,St. Louis Cardinals,False,batter
+Matt Mervis,ISR,D (Miami),1B,Washington Nationals,False,batter
+Eli Morgan,ISR,D (Miami),RHP,Kansas City Royals,False,pitcher
+Ryan Prager,ISR,D (Miami),LHP,Cleveland Guardians,False,pitcher
+RJ Schreck,ISR,D (Miami),LF,Toronto Blue Jays,False,batter
+Ben Simon,ISR,D (Miami),RHP,New York Mets,False,pitcher
+Robert Stock,ISR,D (Miami),RHP,New York Mets,False,pitcher
+Garrett Stubbs,ISR,D (Miami),C,Philadelphia Phillies,True,batter
+CJ Stubbs,ISR,D (Miami),C,Toronto Blue Jays,False,batter
+Jack Anderson,GBR,B (Houston),RHP,Boston Red Sox,False,pitcher
+Brendan Beck,GBR,B (Houston),RHP,New York Yankees,False,pitcher
+Tristan Beck,GBR,B (Houston),RHP,San Francisco Giants,True,pitcher
+Jazz Chisholm Jr.,GBR,B (Houston),2B,New York Yankees,True,batter
+Willis Cresswell,GBR,B (Houston),C,Toronto Blue Jays,False,batter
+Nate Eaton,GBR,B (Houston),3B,Boston Red Sox,True,batter
+Harry Ford,GBR,B (Houston),C,Washington Nationals,True,batter
+Gary Gill Hill,GBR,B (Houston),RHP,Tampa Bay Rays,False,pitcher
+Ivan Johnson,GBR,B (Houston),2B,Cincinnati Reds,False,batter
+Antonio Knowles,GBR,B (Houston),RHP,Los Angeles Dodgers,False,pitcher
+Matt Koperniak,GBR,B (Houston),RF,St. Louis Cardinals,False,batter
+Miles Langhorne,GBR,B (Houston),RHP,Milwaukee Brewers,False,pitcher
+Ian Lewis Jr.,GBR,B (Houston),SS,Miami Marlins,False,batter
+Ryan Long,GBR,B (Houston),RHP,Baltimore Orioles,False,pitcher
+BJ Murray,GBR,B (Houston),1B,Chicago Cubs,False,batter
+Michael Petersen,GBR,B (Houston),RHP,Miami Marlins,True,pitcher
+Kristian Robinson,GBR,B (Houston),CF,Arizona Diamondbacks,False,batter
+Jack Seppings,GBR,B (Houston),RHP,Milwaukee Brewers,False,pitcher
+Najer Victor,GBR,B (Houston),RHP,Los Angeles Angels,False,pitcher
+Owen Wild,GBR,B (Houston),RHP,Tampa Bay Rays,False,pitcher
+Logan Allen,PAN,A (San Juan),LHP,Cleveland Guardians,True,pitcher
+Miguel Amaya,PAN,A (San Juan),C,Chicago Cubs,True,batter
+Leo Bernal,PAN,A (San Juan),C,St. Louis Cardinals,True,batter
+Christian Bethancourt,PAN,A (San Juan),C/1B,Chicago Cubs,False,batter
+Enrique Bradfield,PAN,A (San Juan),CF,Baltimore Orioles,False,batter
+José Caballero,PAN,A (San Juan),IF,New York Yankees,True,batter
+Miguel Cienfuegos,PAN,A (San Juan),LHP,San Diego Padres,False,pitcher
+James González,PAN,A (San Juan),LHP,Athletics,False,pitcher
+Javy Guerra,PAN,A (San Juan),RHP,Atlanta Braves,False,pitcher
+Ivan Herrera,PAN,A (San Juan),C,St. Louis Cardinals,True,batter
+Leo Jiménez,PAN,A (San Juan),SS,Toronto Blue Jays,True,batter
+Abdiel Mendoza,PAN,A (San Juan),RHP,Seattle Mariners,False,pitcher
+Jose Ramos,PAN,A (San Juan),OF,New York Mets,False,batter
+Erian Rodríguez,PAN,A (San Juan),RHP,Chicago Cubs,False,pitcher
+Edmundo Sosa,PAN,A (San Juan),2B,Philadelphia Phillies,True,batter
+Jorge Alfaro,COL,A (San Juan),C,Kansas City Royals,False,batter
+Michael Arroyo,COL,A (San Juan),SS,Seattle Mariners,False,batter
+Austin Bergner,COL,A (San Juan),RHP,Texas Rangers,False,pitcher
+Brayan Buelvas,COL,A (San Juan),CF,Athletics,False,batter
+Gustavo Campero,COL,A (San Juan),OF,Los Angeles Angels,False,batter
+Nabil Crismatt,COL,A (San Juan),RHP,Texas Rangers,False,pitcher
+Dayan Frias,COL,A (San Juan),SS,Cleveland Guardians,False,batter
+Tayron Guerrero,COL,A (San Juan),RHP,Boston Red Sox,False,pitcher
+David Lorduy,COL,A (San Juan),RHP,Cincinnati Reds,False,pitcher
+Reiver Sanmartín,COL,A (San Juan),LHP,San Francisco Giants,True,pitcher
+Guillo Zuñiga,COL,A (San Juan),RHP,Seattle Mariners,False,pitcher
+Stiven Cruz,NCA,D (Miami),RHP,Milwaukee Brewers,False,pitcher
+Duque Hebbert,NCA,D (Miami),RHP,Detroit Tigers,False,pitcher
+Ismael Munguia,NCA,D (Miami),CF,Toronto Blue Jays,False,batter
+Oscar Rayo,NCA,D (Miami),LHP,Kansas City Royals,False,pitcher
+Carlos Rodríguez,NCA,D (Miami),RHP,Milwaukee Brewers,True,pitcher
+Mark Vientos,NCA,D (Miami),3B,New York Mets,True,batter
+Freddy Zamora,NCA,D (Miami),SS,Milwaukee Brewers,False,batter
+Travis Bazzana,AUS,C (Tokyo),2B,Cleveland Guardians,False,batter
+Max Durrington,AUS,C (Tokyo),UTL,Athletics,False,batter
+Curtis Mead,AUS,C (Tokyo),IF,Chicago White Sox,True,batter
+Mitch Neunborn,AUS,C (Tokyo),RHP,Philadelphia Phillies,False,pitcher
+Blake Townsend,AUS,C (Tokyo),LHP,Texas Rangers,False,pitcher
+Pietro Albanez,BRA,B (Houston),RHP,Pittsburgh Pirates,False,pitcher
+Gabriel Barbosa,BRA,B (Houston),RHP,Philadelphia Phillies,False,pitcher
+Pedro Lemos,BRA,B (Houston),RHP,Seattle Mariners,False,pitcher
+Daniel Missaki,BRA,B (Houston),RHP,Texas Rangers,False,pitcher
+Lucas Ramirez,BRA,B (Houston),OF,Los Angeles Angels,False,batter
